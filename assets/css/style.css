@@ -3,13 +3,7 @@
   font-weight: 400;
   font-style: normal;
 }
-body {
-  margin: 0;
-}
-.interface {
-  width: 1170px;
-  margin: auto;
-}
+
 header {
   background-color: #fff;
   padding-top: 20px;
